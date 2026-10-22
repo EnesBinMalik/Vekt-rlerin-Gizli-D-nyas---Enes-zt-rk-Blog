@@ -1,0 +1,6 @@
+{
+  "name": "Vektörlerin Gizli Dünyası - Enes Öztürk Blog",
+  "description": "Enes Öztürk'ün kaleminden: Ezber formüllerden uzak, interaktif simülasyonlarla yüksek boyutlu uzay, veri bilimi ve yapay zeka sezgisi üzerine kapsamlı bir blog gönderisi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
