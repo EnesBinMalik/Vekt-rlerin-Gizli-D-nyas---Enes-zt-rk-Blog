@@ -1,0 +1,6 @@
+{
+  "name": "Constructor (Kurucu Metot) Rehberi & Simülatörü — Enes Öztürk",
+  "description": "Nesne Yönelimli Programlamada (OOP) Constructor kavramı, varsayılan kurucular, bellek yönetimi ve aşırı yükleme interaktif eğitim simülatörü. Hazırlayan: Enes Öztürk.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
