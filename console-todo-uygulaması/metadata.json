@@ -1,0 +1,6 @@
+{
+  "name": "Console ToDo Uygulaması",
+  "description": "3 Kolonlu (TODO, IN PROGRESS, DONE) C# Console ToDo & Kanban Board Uygulaması - Enes Öztürk",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
