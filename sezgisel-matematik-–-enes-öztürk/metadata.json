@@ -1,0 +1,6 @@
+{
+  "name": "Sezgisel Matematik – Enes Öztürk",
+  "description": "Ezbere değil sezgisel kavramaya dayalı matematik manifestosu ve interaktif blog yayını. Yazar: Enes Öztürk.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
