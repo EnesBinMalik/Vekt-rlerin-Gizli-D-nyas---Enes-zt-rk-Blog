@@ -1,0 +1,6 @@
+{
+  "name": "Öztürk: Fractal Breach",
+  "description": "Ultra-high-end vertical mathematical fractal geometry engine and tactical strategy sandbox conceived and directed by Enes Öztürk.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
