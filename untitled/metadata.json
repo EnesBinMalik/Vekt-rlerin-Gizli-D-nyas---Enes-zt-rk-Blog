@@ -1,0 +1,6 @@
+{
+  "name": "DVD Rental SQL Master - Enes Öztürk",
+  "description": "PostgreSQL dvdrental örnek veri tabanı sorgu senaryoları, interaktif SQL konsolu ve çözümleri.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
