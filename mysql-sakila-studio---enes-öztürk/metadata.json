@@ -1,0 +1,6 @@
+{
+  "name": "MySQL Sakila Studio - Enes Öztürk",
+  "description": "MySQL Sakila veritabanı sorgu stüdyosu ve SQL BETWEEN & IN ödev çözümleri. Enes Öztürk imzalı profesyonel SQL arayüzü.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
