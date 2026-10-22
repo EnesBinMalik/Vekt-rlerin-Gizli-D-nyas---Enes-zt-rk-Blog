@@ -1,0 +1,6 @@
+{
+  "name": "Enes Öztürk MySQL Studio",
+  "description": "Enes Öztürk imzalı yüksek performanslı MySQL Sakila veritabanı stüdyosu ve SQL sorgu analizörü.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
