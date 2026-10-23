@@ -1,0 +1,6 @@
+{
+  "name": "DVD Rental MySQL Sorguları - Enes Öztürk",
+  "description": "dvdrental veri tabanı üzerinde MySQL sorgu senaryoları, detaylı alt sorgu (subquery) çözümleri ve interaktif SQL çalıştırma ortamı. Hazırlayan: Enes Öztürk.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
