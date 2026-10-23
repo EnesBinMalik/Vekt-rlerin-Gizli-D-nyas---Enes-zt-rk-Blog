@@ -1,0 +1,6 @@
+{
+  "name": "Öztürk: Sovereign Matrix",
+  "description": "Enes Öztürk tarafından tasarlanıp yönetilen elit kriptografik fizik simülasyonu, gerçek zamanlı dinamik matris manipülasyonu ve taktik siber savaş başyapıtı.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
