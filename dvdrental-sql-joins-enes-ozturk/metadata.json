@@ -1,0 +1,6 @@
+{
+  "name": "dvdrental-sql-joins-enes-ozturk",
+  "description": "PostgreSQL dvdrental veritabanı LEFT, RIGHT ve FULL JOIN sorguları, etkileşimli görselleştirme ve test platformu. Hazırlayan: Enes Öztürk.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
