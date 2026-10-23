@@ -1,0 +1,6 @@
+{
+  "name": "MySQL Test DB - Employee (Enes Öztürk)",
+  "description": "MySQL test veritabanı employee tablosu: Mockaroo 50 veri ekleme, 5 UPDATE ve 5 DELETE işlemi, interaktif MySQL konsolu ve tablo yöneticisi. Enes Öztürk imzalı.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
