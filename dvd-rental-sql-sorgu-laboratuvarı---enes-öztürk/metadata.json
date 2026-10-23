@@ -1,0 +1,6 @@
+{
+  "name": "DVD Rental SQL Sorgu Laboratuvarı - Enes Öztürk",
+  "description": "dvdrental veritabanı actor ve customer first_name küme operasyonları (UNION, INTERSECT, EXCEPT ve ALL varyasyonları) - Enes Öztürk",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
