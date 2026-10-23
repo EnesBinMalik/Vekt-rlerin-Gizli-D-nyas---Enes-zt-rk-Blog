@@ -1,0 +1,114 @@
+@import "tailwindcss";
+
+@layer base {
+  body {
+    font-family: 'Plus Jakarta Sans', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  }
+}
+
+/* Custom styling for HTML job contents received from The Muse API */
+.kodwork-prose {
+  color: #334155;
+  line-height: 1.7;
+  font-size: 0.975rem;
+}
+
+.kodwork-prose h1,
+.kodwork-prose h2,
+.kodwork-prose h3,
+.kodwork-prose h4 {
+  color: #0f172a;
+  font-weight: 700;
+  letter-spacing: -0.015em;
+  margin-top: 1.75rem;
+  margin-bottom: 0.75rem;
+  line-height: 1.35;
+}
+
+.kodwork-prose h1 {
+  font-size: 1.5rem;
+}
+
+.kodwork-prose h2 {
+  font-size: 1.3rem;
+}
+
+.kodwork-prose h3 {
+  font-size: 1.15rem;
+}
+
+.kodwork-prose h4 {
+  font-size: 1.05rem;
+}
+
+.kodwork-prose p {
+  margin-top: 0.75rem;
+  margin-bottom: 0.85rem;
+  color: #334155;
+}
+
+.kodwork-prose strong,
+.kodwork-prose b {
+  font-weight: 600;
+  color: #0f172a;
+}
+
+.kodwork-prose ul {
+  list-style-type: disc;
+  margin-top: 0.75rem;
+  margin-bottom: 1rem;
+  padding-left: 1.4rem;
+}
+
+.kodwork-prose ol {
+  list-style-type: decimal;
+  margin-top: 0.75rem;
+  margin-bottom: 1rem;
+  padding-left: 1.4rem;
+}
+
+.kodwork-prose li {
+  margin-top: 0.35rem;
+  margin-bottom: 0.35rem;
+  color: #334155;
+}
+
+.kodwork-prose a {
+  color: #4f46e5;
+  text-decoration: underline;
+  text-underline-offset: 3px;
+  font-weight: 500;
+}
+
+.kodwork-prose a:hover {
+  color: #3730a3;
+}
+
+.kodwork-prose blockquote {
+  border-left: 3px solid #6366f1;
+  padding-left: 1rem;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  font-style: italic;
+  color: #475569;
+}
+
+.kodwork-prose table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  font-size: 0.875rem;
+}
+
+.kodwork-prose th,
+.kodwork-prose td {
+  border: 1px solid #e2e8f0;
+  padding: 0.5rem 0.75rem;
+  text-align: left;
+}
+
+.kodwork-prose th {
+  background-color: #f8fafc;
+  font-weight: 600;
+}
