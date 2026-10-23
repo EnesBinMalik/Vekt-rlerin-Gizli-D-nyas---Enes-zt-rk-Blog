@@ -1,0 +1,6 @@
+{
+  "name": "kodwork - İş Arama Platformu",
+  "description": "The Muse API tabanlı modern iş arama ve kariyer platformu. Enes Öztürk tarafından geliştirilmiştir.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
