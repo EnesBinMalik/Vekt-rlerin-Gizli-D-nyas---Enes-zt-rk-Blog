@@ -1,0 +1,6 @@
+{
+  "name": "DVD Rental MySQL Studio - Enes Öztürk",
+  "description": "DVD Rental örnek veri tabanı üzerinde 4 temel SQL senaryosunun MySQL sorguları, interaktif sorgu editörü ve veri analiz paneli.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
