@@ -1,0 +1,6 @@
+{
+  "name": "MySQL Sakila Veritabanı Sorgu Stüdyosu - Enes Öztürk",
+  "description": "MySQL film ve customer tabloları için LIKE '%n', ORDER BY, LIMIT ve OFFSET sorgu analizleri ve canlı veritabanı yürütücüsü. Hazırlayan: Enes Öztürk.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
