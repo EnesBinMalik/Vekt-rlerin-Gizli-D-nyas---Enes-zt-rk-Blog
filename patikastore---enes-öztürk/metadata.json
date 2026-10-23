@@ -1,0 +1,6 @@
+{
+  "name": "PatikaStore - Enes Öztürk",
+  "description": "Patika.dev React Native PatikaStore projesi ve interaktif ürün kataloğu - Enes Öztürk",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
