@@ -1,0 +1,6 @@
+{
+  "name": "TaskFlow | Enes Öztürk Todo",
+  "description": "Enes Öztürk imzalı modern to-do uygulaması. Aktif görev sayacı, basılı tutarak silme desteği ve özel component mimarisi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
