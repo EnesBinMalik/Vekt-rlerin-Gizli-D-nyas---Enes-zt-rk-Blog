@@ -1,0 +1,6 @@
+{
+  "name": "DVD Rental SQL Senaryoları | Enes Öztürk",
+  "description": "PostgreSQL DVD Rental örnek veri tabanı film tablosu sorgu senaryoları analizi ve interaktif SQL stüdyosu. Hazırlayan: Enes Öztürk.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
