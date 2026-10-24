@@ -1,0 +1,6 @@
+{
+  "name": "Kitaplık",
+  "description": "Kitap severler için sosyal medya platformu. Okuduğunuz kitapları paylaşın, favori kitaplığınızı oluşturun ve yeni kitaplar keşfedin. Enes Öztürk imzalı.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
