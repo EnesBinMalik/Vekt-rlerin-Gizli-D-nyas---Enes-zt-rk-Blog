@@ -1,0 +1,6 @@
+{
+  "name": "Trivia - Bilgi Yarışması",
+  "description": "Enes Öztürk imzalı soru-cevap bilgi yarışması. 12 saniyelik zamanlayıcı, doğru-yanlış ve çoktan seçmeli modlar, detaylı istatistikler ve yüksek skor takibi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
