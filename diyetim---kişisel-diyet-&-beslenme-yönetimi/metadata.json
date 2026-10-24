@@ -1,0 +1,6 @@
+{
+  "name": "Diyetim - Kişisel Diyet & Beslenme Yönetimi",
+  "description": "Enes Öztürk imzasıyla hazırlanmış kişisel diyet programı, yemek hatırlatıcısı, besin değeri analizi ve detaylı diyet raporlama sistemi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
