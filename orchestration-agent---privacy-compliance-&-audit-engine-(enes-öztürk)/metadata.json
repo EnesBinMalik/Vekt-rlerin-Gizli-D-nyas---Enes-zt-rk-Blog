@@ -1,0 +1,6 @@
+{
+  "name": "Orchestration Agent - Privacy Compliance & Audit Engine (Enes Öztürk)",
+  "description": "Enes Öztürk imzalı 518 vakalık GDPR/KVKK veri silme uyumluluk denetim motoru, kanıt analizi ve code.zip orkestrasyon sistemi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
