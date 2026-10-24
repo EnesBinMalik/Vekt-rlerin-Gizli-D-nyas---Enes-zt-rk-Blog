@@ -1,0 +1,8 @@
+{
+  "name": "Wheather - Anlık Hava Durumu",
+  "description": "Konum bazlı anlık hava durumu, il-ilçe bilgisi, özel hava durumu ikonları ve aşağı çekerek (pull-to-refresh) rastgele konum keşfi sunan mobil uygulama. Enes Öztürk imzalıdır.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
