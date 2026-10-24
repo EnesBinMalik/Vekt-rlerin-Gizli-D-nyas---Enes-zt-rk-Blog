@@ -1,0 +1,6 @@
+{
+  "name": "Worldwide Restaurants | Enes Öztürk",
+  "description": "Dünya genelindeki seçkin restoranları keşfetme, interaktif harita üzerinde inceleme, çalışma saatleri, fotoğraflar ve anında masa rezervasyonu yapma rehberi. Enes Öztürk imzalı.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
