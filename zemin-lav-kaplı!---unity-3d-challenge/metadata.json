@@ -1,0 +1,6 @@
+{
+  "name": "Zemin Lav Kaplı! - Unity 3D Challenge",
+  "description": "Unity 3D ilkel objeleri, fizik simülasyonu, materyaller ve lav zemin üzerinde top yuvarlama meydan okuması ve parkur editörü. Enes Öztürk imzalı.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
