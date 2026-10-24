@@ -1,0 +1,6 @@
+{
+  "name": "Marvel Comics & Karakter Evreni",
+  "description": "Marvel karakterleri ve çizgi romanlarının incelendiği, detaylı hikaye ve ilişkisel bağlantıların keşfedildiği platform. Enes Öztürk imzalı.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
